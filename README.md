@@ -1,2 +1,2 @@
 # hello-world
-hello, I am Kong Congcong.
+hello, I am Congcong.
